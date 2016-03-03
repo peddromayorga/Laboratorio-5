@@ -35,7 +35,8 @@ public class ConsultasTest {
     
     @Test
     public void registroPacienteTest(){
-        
+        Paciente pa = new Paciente(1, "Cedula", "Pedro", new DateTime(1996,6,2,0,0));
+        //Clase equivalencia
     }
     
     
